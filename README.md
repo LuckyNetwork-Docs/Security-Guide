@@ -1,4 +1,4 @@
-# LuckyNetwork Security Incident Response Plan
+# LuckyNetwork Security Guide
 
 This document outlines the procedures and guidelines for responding to security incidents at LuckyNetwork.
 
