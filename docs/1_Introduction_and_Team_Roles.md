@@ -8,9 +8,9 @@ This document outlines the organizational structure, key roles, and responsibili
 
 LuckyNetwork's security strategy is driven by proactive threat management, rapid incident response, and continuous improvement. The security team is led by the Chief Security Officer (CSO) and includes several specialized sub-teams tasked with different aspects of security, from incident response to threat intelligence and vulnerability management.
 
-## 1.1 Chief Security Officer (CSO) & Security Engineer
+## 1.1 Chief Security Officer (CSO)
 ### Role
-The CSO and Security Engineer are responsible for overseeing the security team and ensuring that security policies and procedures are implemented effectively. They set the strategic direction for the security posture of the LuckyNetwork. The Security Engineer can take on the role of the CSO in their absence.
+The Security Leader (CSO) is responsible for overseeing the security team and ensuring that security policies and procedures are implemented effectively. They set the strategic direction for the security posture of the LuckyNetwork. 
 
 ### Responsibilities
 - Develop and maintain security policies and procedures
@@ -19,6 +19,15 @@ The CSO and Security Engineer are responsible for overseeing the security team a
 - Ensure compliance with relevant regulations and standards
 - Provide leadership and guidance to the security team
 - Maintain real-time communication during security incidents
+
+## 1.2 Security Engineer
+### Role
+Security Engineer is a specialized role within the Security Team that act as a co-leader of the Security Team. During a normal day, the Security Engineer is responsible for helping the Security Leader (CSO) with their tasks and run day-to-day operations of the Security Team. In absence of the Security Leader (CSO), the Security Engineer will take over the Security Leader (CSO) role.
+
+### Responsibilities
+The Security Enginer has the same responsibilities as the Security Leader (CSO) but with the following additional responsibilities:
+- Oversee the Security Awareness Training Program
+- Oversee the Security Incident Response Plan (SIRP)
 
 ## 1.2 Security Team
 
